@@ -505,5 +505,7 @@
     <string name="config_adaptiveChargingSysfsNode" translatable="false">/sys/class/power_supply/battery/input_suspend</string>
     <string name="config_adaptiveChargingSupspendValue" translatable="false">1</string>
     <string name="config_adaptiveChargingResumeValue" translatable="false">0</string>
-    
+
+    <!-- Indicates whether StatusBar burn-in protection is On -->
+    <bool name="config_statusBarBurnInProtection">true</bool>    
 </resources>
