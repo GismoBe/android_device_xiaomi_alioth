@@ -18,4 +18,8 @@
 
     <!-- Whether to show min/max refresh rate in display settings -->
     <bool name="config_show_refresh_rate_controls">true</bool>
+
+    <!-- Maintainer info -->
+    <string name="config_maintainer_name">AσιSαɳ🇳🇵</string>
+    <string name="config_maintainer_link">https://t.me/AoiSan</string>
 </resources>
